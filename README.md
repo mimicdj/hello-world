@@ -1,2 +1,4 @@
 # hello-world
-Just another repository
+
+Hi Humans!
+GUESS how I finish the project I've done in this morning!
